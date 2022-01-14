@@ -5,7 +5,7 @@ The present repository contains code written in R, used in order to perform part
   <img src="https://srigas.me/github/WorldMap.png" width="800" />
 </p>
 
-This project was part of the Data Science & Machine Learning Post-Graduate MSc programme in the National Technical University of Athens (NTUA). The code is split into separate scripts which are numbered according to the order in which their output appears in the project's [report](https://github.com/srigas/Covid-19_Vaccinations/blob/main/Report.pdf) and are thus expected to be executed in this order.
+This project was part of a course in the Data Science & Machine Learning Post-Graduate MSc programme in the National Technical University of Athens (NTUA). The code is split into separate scripts which are numbered according to the order in which their output appears in the project's [report](https://github.com/srigas/Covid-19_Vaccinations/blob/main/Report.pdf) and are thus expected to be executed in this order.
 
 <p align="center">
   <img src="https://srigas.me/github/SeasonalLollipopCharts.png" width="800" />
